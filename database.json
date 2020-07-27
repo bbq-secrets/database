@@ -1,0 +1,717 @@
+{
+	"sobre": "Criada em 2017, a BBQ Secrets, pelo seu sabor e qualidade, ocupa hoje lugar de destaque no paladar de quem preza por uma carne que carrega consigo mais de 25 nos de estudos, pesquisas e aprimoramento, além de incontáveis acertos e erros, tempo em que o seu sócio fundador, o engenheiro agrônomo Roberto Barcellos, em parceria com a Frigol, se dedicou na busca pelo que há de melhor e mais completo no mundo da produção animal, aperfeiçoando o ciclo da carne de maneira completa.  \nCom o objetivo único de produzir carnes especiais de alta qualidade, usou suas mais de duas décadas de estudos para encontrar o que descreve hoje como o modelo ideal do produto. Foram diversos intercâmbios pelos países que sempre foram destaque no segmento, parcerias com empresas de genética, nutrição e sanidade, garantindo a evolução no manejo de forma consciente, com a padronização de toda a cadeia produtiva. \nO resultado de investimentos em blend de raças, ultrassonografia, terroir e maturação não poderia ser diferente do que se encontra hoje em cada corte da BBQ Secrets, uma carne com alta qualidade, marmoreio único, maciez, suculência e sabor incomparáveis para elevar o seu negócio a um patamar nunca antes vivenciado. \nBem-vindo ao universo BBQ Secrets!",
+	"fotos": {},
+	"pontos_venda": [{
+			"Nome": "Santo Corte",
+			"endereco": "Rodovia João Amaral Gurgel, 980, Loja 13 (dentro do Supermercado Shibata), Parque Residencial Maria Elmira - Caçapava-SP",
+			"Telefone": "(012) 3224-0046",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Rancho Toro",
+			"endereco": "Avenida Padre Jaime, 2350, Villa Ricci - Mogi Guaçu-SP‬",
+			"Telefone": "(019) 97407-9801",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.3797684,
+			"lng": -46.9486969
+		},
+		{
+			"Nome": "Meat & Co",
+			"endereco": "Av. Moreira Guimarães, 700 - loja 2 - Moema - São Paulo-SP",
+			"Telefone": "(011) 45620040",
+			"Telefone 2": "(011) 45620050",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Home Beef Shop",
+			"endereco": "Av. Francisco das Chagas Oliveira, 212, Jardim Pinheiros - São José do Rio Preto-SP ",
+			"Telefone": "(017) 3305-1312",
+			"Telefone 2": "(017) 98184-8757",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Picanharia dos Amigos",
+			"endereco": "Rua Pedralia, 370, Vila Gumercindo - São Paulo-SP",
+			"Telefone": "(011) 96928-4585",
+			"Tipo": "Restaurante",
+			"lat": -23.6058293,
+			"lng": -46.6186407
+		},
+		{
+			"Nome": "Picanharia dos Amigos",
+			"endereco": "Rua Guaipá, 1017, Vila Leopoldina - São Paulo-SP",
+			"Telefone": "(011) 96928-4585",
+			"Tipo": "Restaurante",
+			"lat": -23.5214466,
+			"lng": -46.7321643
+		},
+		{
+			"Nome": "Picanharia dos Amigos",
+			"endereco": "Rua Relíquia, 33, Casa Verde - São Paulo-SP",
+			"Telefone": "(011) 96928-4585",
+			"Tipo": "Restaurante",
+			"lat": -23.508792,
+			"lng": -46.6615232
+		},
+		{
+			"Nome": "Red Beef Prime",
+			"endereco": "Av. Dr. Francisco Loup, 1122,  Loja 01/02, Maresias - São Sebastião-SP",
+			"Telefone": "(012) 3865-7073",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Bruttus Burger",
+			"endereco": "Av. Prefeito Hirant Sanazar, 98 - Umuarama - Osasco-SP",
+			"Telefone": "(011) 4565-7441",
+			"Tipo": "Hamburgueria ",
+			"lat": -23.5489836,
+			"lng": -46.7765161
+		},
+		{
+			"Nome": "Meatbox",
+			"endereco": "Rua Zacarias de Góis, 628 - Campo Belo - São Paulo-SP",
+			"Telefone": "(011) 99645-9450",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.6275033,
+			"lng": -46.674886
+		},
+		{
+			"Nome": "Meatbox",
+			"endereco": "Rua Santa Cruz, 541 - Vila Mariana - São Paulo-SP",
+			"Telefone": "(011) 99645-9450",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5968505,
+			"lng": -46.6312993
+		},
+		{
+			"Nome": "Aurok Loja 1",
+			"endereco": "Av.  José Bonifácil, 2525, Jardim das Paineras - Campinas-SP",
+			"Telefone": "(019) 3367-6977",
+			"Telefone 2": "(019) 99967-6977",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.8984263,
+			"lng": -47.0296671
+		},
+		{
+			"Nome": "Aurok Loja 2",
+			"endereco": "Rua Jasmin, 215 - Loja 6 e 7, Chácara Primavera - Campinas-SP ",
+			"Telefone": "(019) 3368-5828",
+			"Telefone 2": "(019) 99403-1989",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Aurok Loja 3",
+			"endereco": "Av. Baden Powell, 1929, Lojas 3 e 4, Jardim Nova Europa - Campinas-SP",
+			"Telefone": "(019) 3203-9005",
+			"Telefone 2": "(019) 98976-6121",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Nomad Burger",
+			"endereco": "Av. Getúlio Vargas, 6-15 (Galeria Victoria), Vila Guedes de Azevedo - Bauru-SP",
+			"Telefone": "(014) 3010-8763",
+			"Tipo": "Hamburgueria "
+		},
+		{
+			"Nome": "Borges Carnes",
+			"endereco": "Av. Gabriela Mistral, 160, Box 3 - Mercado Municipal da Penha, Penha - São Paulo-SP",
+			"Telefone": "(011) 2082-0522",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Melt",
+			"endereco": "Av. Shishima Hifumi, 1620, Urbanova - São José dos Campos-SP",
+			"Telefone": "(012) 98288-2176",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.2019561,
+			"lng": -45.9389991
+		},
+		{
+			"Nome": "Empório 26",
+			"endereco": "Rua 9a, 195, Vila Alemã - Rio Claro-SP",
+			"Telefone": "(019) 3532-9092",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.3970078,
+			"lng": -47.5549288
+		},
+		{
+			"Nome": "Guimarães Casa de Carnes",
+			"endereco": "Rua Artur Rios, 1759, Campo Grande - Rio de Janeiro-RJ",
+			"Telefone": "(021) 99133-4928",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.9026625,
+			"lng": -43.5495753
+		},
+		{
+			"Nome": "Good Frango",
+			"endereco": "Rua Portugal, 255, Loteamento Nardini - Amparo-SP",
+			"Telefone": "(019) 3807-7470",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.710351,
+			"lng": -46.7817701
+		},
+		{
+			"Nome": "Aurora Hamburgueria Artesanal",
+			"endereco": "Rua Padre Anchieta, 235, Centro - Presidente Venceslau-SP",
+			"Telefone": "(018) 99141-3888",
+			"Tipo": "Hamburgueria ",
+			"lat": -21.878839,
+			"lng": -51.8468766
+		},
+		{
+			"Nome": "Charmoso Burger",
+			"endereco": "Rua Padre Duarte, 2106, Centro - Araraquara-SP",
+			"Telefone": "(016) 3331-3011",
+			"Tipo": "Hamburgueria ",
+			"lat": -21.7876859,
+			"lng": -48.1788771
+		},
+		{
+			"Nome": "Litoral Meat",
+			"endereco": "Rua do Petróleo, 22, Porto Grande, São Sebastião-SP",
+			"Telefone": "(012) 97401-3960",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Prime Beef Boutique de Carnes",
+			"endereco": "Av. Francisco Assis Monteiro de Castro, 43, Vila Oliveira - Mogi das Cruzes-SP",
+			"Telefone": "(011) 93803-8949",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5228404,
+			"lng": -46.1803684
+		},
+		{
+			"Nome": "Loja do Churrasco",
+			"endereco": "Rua Sargento Pierroti, 234, Centro - Limeira-SP",
+			"Telefone": "(019) 211435-14",
+			"Telefone 2": "(019) 99594-0540",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.5684656,
+			"lng": -47.4068858
+		},
+		{
+			"Nome": "Espetaria Santo Américo",
+			"endereco": "Rua Vereador Lazaro Caceres, 242, Cohab 4 - Pirangi-SP",
+			"Telefone": "(017) 99747-7952",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Vila Beef",
+			"endereco": "Av. Portugal, 1148, Jardim São Luiz - Ribeirão Preto-SP",
+			"Telefone": "(016) 3623-4321",
+			"Telefone 2": "(016) 99706-4321",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.1972145,
+			"lng": -47.8004221
+		},
+		{
+			"Nome": "Bovinos Prime",
+			"endereco": "Rua 15 de Novembro, 1066, Centro - Santa Barbara d'Oeste-SP",
+			"Telefone": "(019) 99690-1663",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.758747,
+			"lng": -47.4156574
+		},
+		{
+			"Nome": "M. Rodrigues By Maurício",
+			"endereco": "Rua Thomáz Nogueira Gaia, 1759, Jardm Iraja - Ribeirão Preto-SP",
+			"Telefone": "(016) 98154-7640",
+			"Telefone 2": "(016) 3911-2330",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.2081298,
+			"lng": -47.8040815
+		},
+		{
+			"Nome": "The Premium Steaks",
+			"endereco": "Travessa Bras de Aguiar, 279, Nazaré - Belém-PA",
+			"Telefone": "(091) 9120-4458",
+			"Tipo": "Restaurante",
+			"lat": -1.454774,
+			"lng": -48.4894058
+		},
+		{
+			"Nome": "Emporio da Bica - Boutique de Carnes",
+			"endereco": "Rua Silvia Constantino Souza, 40, Centro Pitangueiras - Guarujá-SP",
+			"Telefone": "(013) 3359-6161",
+			"Telefone 2": "(013) 99615-5937",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Casa London",
+			"endereco": "Alameda Rio Negro, 1286, Alphaville - Barueri-SP",
+			"Telefone": "(011) 4191-0809",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Casa London",
+			"endereco": "Av. Yojiro Takaoka, 4492 - Centro de Apoio I (Alphaville), Santana de Parnaíba-SP",
+			"Telefone": "(011) 4153-3110",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.4637663,
+			"lng": -46.8720365
+		},
+		{
+			"Nome": "Talho Meat Shop",
+			"endereco": "Av. Diógenes Ribeiro de Lima, 2314, Alto de Pinheiro - Sao Paulo-SP ",
+			"Telefone": "(011) 3021-0250  ",
+			"Telefone 2": "(011) 94792-5705",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5399036,
+			"lng": -46.7182025
+		},
+		{
+			"Nome": "Talho Meat Shop 2",
+			"endereco": "Rua Passo da Pátria, 790D, Vila Leopoldina - São Paulo-SP",
+			"Telefone": "(011) 3021-0250  ",
+			"Telefone 2": "(011) 94792-5705",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.527784,
+			"lng": -46.726165
+		},
+		{
+			"Nome": "Mian Carnes Nobres",
+			"endereco": "Rua Raimundo Correia, 886, Vila Monteiro - São Carlos-SP",
+			"Telefone": "(016) 3368-1460  ",
+			"Telefone 2": "(016) 98827-3307",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Afonso's Carnes Especiais",
+			"endereco": "Av. Nossa Sra. do Carmo, 1270, São Pedro - Belo Horizonte-MG",
+			"Telefone": "(031) 3286-2807  ",
+			"Telefone 2": "(031) 99891-7943",
+			"Tipo": "Casa de Carnes",
+			"lat": -19.9498785,
+			"lng": -43.9369621
+		},
+		{
+			"Nome": "Casa de Carnes Divino",
+			"endereco": "Av. Dr. Luiz Mendes de Almeida, 677, Vila Espírito Santo - Sorocaba-SP",
+			"Telefone": "(015) 3222-5907  ",
+			"Telefone 2": "(015) 99724-7469",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5182869,
+			"lng": -47.49256
+		},
+		{
+			"Nome": "Q Marché",
+			"endereco": "Av. Rachel de Queiroz, 951, loja 101, Barra da Tijuca - Rio de Janeiro-RJ",
+			"Telefone": "(021) 3514-2848",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Chack-Ho Carnes Nobres",
+			"endereco": "Rua Lauro Azevedo Oliveira, 309, Vila São Francisco - São Paulo-SP",
+			"Telefone": "(011) 99608-1379",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5172113,
+			"lng": -46.4884601
+		},
+		{
+			"Nome": "Frigorífico Torres",
+			"endereco": "Av. General Valdomiro de Lima, 125, Parque Jabaquara - São Paulo-SP",
+			"Telefone": "(011) 5011-1255",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.6381313,
+			"lng": -46.6455236
+		},
+		{
+			"Nome": "Empório Canastra",
+			"endereco": "Rua do Rosário, 361, Bairro Angola - Betim-MG",
+			"Telefone": "(031) 99562-7581  ",
+			"Telefone 2": "(031) 99562-7539",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "BJ - Açougue e Churrasco",
+			"endereco": "Rua Edno Fregonsei, 45, Sala 1, Jd Nova Aliança Sul - Ribeirão Preto-SP",
+			"Telefone": "(016) 99764-4441",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Soft Beef",
+			"endereco": "Av. Presidente Vargas, 1660, Jardim Sumaré - Ribeirão Preto-SP",
+			"Telefone": "(016) 3236-7001  ",
+			"Telefone 2": "(016) 98154-8209",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.1927747,
+			"lng": -47.8071082
+		},
+		{
+			"Nome": "Adega Mendes Boutique de Carnes ",
+			"endereco": "Av. XV de Novembro, 1633, Centro - Itapecerica de Serra-SP",
+			"Telefone": "(011) 4667-7632",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.7019571,
+			"lng": -46.8513179
+		},
+		{
+			"Nome": "SpazioLab",
+			"endereco": "Rua Bom Pastor, 1835, Ipiranga - São Paulo-SP",
+			"Telefone": "(011) 2061-4688",
+			"Tipo": "Hamburgueria ",
+			"lat": -23.5927443,
+			"lng": -46.6067014
+		},
+		{
+			"Nome": "BBQ House",
+			"endereco": "Rua Adolfo Bianco, 101, Central Park - Batatais-SP",
+			"Telefone": "(016) 99756-8082",
+			"Tipo": "Casa de Carnes",
+			"lat": -20.8948557,
+			"lng": -47.5769739
+		},
+		{
+			"Nome": "Meat House Premiun Alto Ipiranga",
+			"endereco": "Rua José Benedito Batalha, 44, Alto Ipiranga - Mogi das Cruzes-SP",
+			"Telefone": "(011) 2378-3443  ",
+			"Telefone 2": "(011) 99983-6119",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5314385,
+			"lng": -46.1979556
+		},
+		{
+			"Nome": "Meat House Premiun Aruã",
+			"endereco": "Av. Presidente General Dutra, 100, (Aruã Boulevard), Cidade Parquelandia - Mogi das Cruzes-SP",
+			"Telefone": "(011) 2629-2976  ",
+			"Telefone 2": "(011) 94042-4151",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "La Carneria",
+			"endereco": "Av. Pres. Vargas, 261, Res. Dona Tunica - Pará de Minas-MG",
+			"Telefone": "(037) 99841-0426",
+			"Tipo": "Casa de Carnes",
+			"lat": -19.8657372,
+			"lng": -44.600008
+		},
+		{
+			"Nome": "Steak 83",
+			"endereco": "Av. Saudade, 1503, Saudade - Araçatuba-SP",
+			"Telefone": "(018) 3304-6020  ",
+			"Telefone 2": "(018) 98119-0183",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.2262871,
+			"lng": -50.4440785
+		},
+		{
+			"Nome": "Meat Club São Paulo",
+			"endereco": "Estrada Velha da Penha, 80, Loja 4, Tatuapé - São Paulo-SP",
+			"Telefone": "(011) 94724-5984",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5282328,
+			"lng": -46.5588899
+		},
+		{
+			"Nome": "Santa Carne ABC",
+			"endereco": "Rua Cruzeiro do Sul,96, Sala 02, Vila Pires - Santo André-SP",
+			"Telefone": "(011) 97277-4686",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Balderi Pasta e Arte",
+			"endereco": "Rua Tabaiares, 229, Vila Assunção - Santo André-SP",
+			"Telefone": "(011) 2598-0698",
+			"Tipo": "Restaurante",
+			"lat": -23.6673198,
+			"lng": -46.5306482
+		},
+		{
+			"Nome": "Reis Restaurante",
+			"endereco": "Av. Salvador Markowicz, 531, Santa Helena - Bragança Paulista-SP",
+			"Telefone": "(011) 4032-1686",
+			"Tipo": "Restaurante"
+		},
+		{
+			"Nome": "JP Boutique de Carnes",
+			"endereco": "Rua Senador Paulo Sarazate, 251, Bairro Michel - Criciúma-SC",
+			"Telefone": "(048) 3413-8121",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Burguer Mania ",
+			"endereco": "Rua Álvaro Gonçalves, 216, Vila de Cava - Nova Iguaçu-RJ ",
+			"Telefone": "(021) 97122-9936",
+			"Tipo": "Hamburgueria "
+		},
+		{
+			"Nome": "Bonas Carnes ",
+			"endereco": "Av Oratório, 2388, Parque São Lucas - São Paulo-SP",
+			"Telefone": "(011) 2115-3408  ",
+			"Telefone 2": "(011) 2916-4537",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5930378,
+			"lng": -46.5466943
+		},
+		{
+			"Nome": "Bison BBQ ",
+			"endereco": "Rua Maria José, 9-75 - Bauru-SP",
+			"Telefone": "(014) 99782-7175",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.329848,
+			"lng": -49.0636549
+		},
+		{
+			"Nome": "Wcarnes Prime",
+			"endereco": "Av. Jóquei Clube, 1631, Salas 1 e 2, Centro Comercial Mercado da Villa - Teresina-PI ",
+			"Telefone": "(086) 3305-3031  ",
+			"Telefone 2": "(086) 99823-2210",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Feed S.A.",
+			"endereco": "Rua Doutor Mário Ferraz, 547, Jardim Europa - São Paulo-SP",
+			"Telefone": "(011) 5627-4700",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5831993,
+			"lng": -46.6862651
+		},
+		{
+			"Nome": "Original CO. Burger & Steak ",
+			"endereco": "Rua Azevedo Sodre, 114, Gonzaga - Santos-SP ",
+			"Telefone": "(013) 98117-9185",
+			"Tipo": "Restaurante",
+			"lat": -23.9660648,
+			"lng": -46.3300752
+		},
+		{
+			"Nome": "Luis Fernando Quinteiro Carnes ",
+			"endereco": "Rua José Ferreira Aranha, 171, Vila Rehder - Americana-SP ",
+			"Telefone": "(019) 98139-9009",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.7435371,
+			"lng": -47.3335904
+		},
+		{
+			"Nome": "Casa de Carnes JP",
+			"endereco": "Rua Dr Antônio Prado, 451 - Ourinhos-SP ",
+			"Telefone": "(014) 3335-1815",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.9727067,
+			"lng": -49.8683957
+		},
+		{
+			"Nome": "Toca do Peixe ",
+			"endereco": "Av. Orestes Quércia, 290, Centro - Ituverava-SP ",
+			"Telefone": "(016) 3729-6430",
+			"Tipo": "Casa de Carnes",
+			"lat": -20.3322302,
+			"lng": -47.7874996
+		},
+		{
+			"Nome": "Bom Beef",
+			"endereco": "Av Doutor Pedro Lessa, 2526, Embare - Santos-SP",
+			"Telefone": "(013) 3236-7764  ",
+			"Telefone 2": "(013) 3301-5886",
+			"Telefone 3": "(013) 97404-5929",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.9672574,
+			"lng": -46.3145927
+		},
+		{
+			"Nome": "Debetti",
+			"endereco": "Rua Curumins, 11, Cidade Jardim - São Paulo-SP  ",
+			"Telefone": "(011) 3032-8875  ",
+			"Telefone 2": "(011) 3032-0617",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5930659,
+			"lng": -46.6953119
+		},
+		{
+			"Nome": "Braza 5",
+			"endereco": "Rua Victório Partênio, 62, Parque Monte Líbano - Mogi das Cruzes-SP",
+			"Telefone": "(011) 2610-1322",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5185252,
+			"lng": -46.1805584
+		},
+		{
+			"Nome": "Faveiro Carnes e Emporio ",
+			"endereco": "Rua Maria Tereza Dias da Silva, 896 - Campinas-SP",
+			"Telefone": "(019) 3289-7163 ",
+			"Telefone 2": "(019) 3289-0966",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.8071682,
+			"lng": -47.0776126
+		},
+		{
+			"Nome": "Açougue Taquari ",
+			"endereco": "Estrada do Rosário, 1004, Loja 2, Jardim Primavera - Duque de Caxias-RJ",
+			"Telefone": "(021) 98389-9024",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Confraria da Carne",
+			"endereco": "Av. Doutor Vital Brasil, 984, Vila São Lucio - Botucatu-SP",
+			"Telefone": "(014) 3882-7733",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.8835769,
+			"lng": -48.4527342
+		},
+		{
+			"Nome": "Clube da Carne Steakhouse ",
+			"endereco": "Av. Dr. Renato de Andrade Maia, 564, Jardim Maia - Guarulhos-SP ",
+			"Telefone": "(011) 2440-1564  ",
+			"Telefone 2": "(011) 99589-5616",
+			"Tipo": "Restaurante",
+			"lat": -23.4550529,
+			"lng": -46.5282058
+		},
+		{
+			"Nome": "Esquina 84",
+			"endereco": "Rua São Pedro, 84, Bairro Todos os Santos - Montes Claros-MG",
+			"Telefone": "(038) 99860-8484",
+			"Tipo": "Restaurante"
+		},
+		{
+			"Nome": "Meat4You",
+			"endereco": "Av Vice Presidente José Alencar, 1405, Lojas F e G, Jacarepaguá - Rio de Janeiro-RJ",
+			"Telefone": "(021) 99941-3064",
+			"Telefone 2": "(021) 2431-5056",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Empório de Carnes Noroeste",
+			"endereco": "Rua Tabajaras, 664, Centro - Araçatuba-SP",
+			"Telefone": "(018) 99790-0056",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.2108358,
+			"lng": -50.4358136
+		},
+		{
+			"Nome": "Hortifruti 737",
+			"endereco": "Rua Vieira de Morais, 737, Campo Belo - Sao Paulo-SP",
+			"Telefone": "(011) 5044-0737",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.6201668,
+			"lng": -46.6741277
+		},
+		{
+			"Nome": "Rock Fella Vila Olimpia ",
+			"endereco": "Rua Rócio, 89, Vila Olimpia, São Paulo-SP",
+			"Telefone": "(011) 99699-6292",
+			"Tipo": "Restaurante",
+			"lat": -23.5938882,
+			"lng": -46.6846901
+		},
+		{
+			"Nome": "Rock Fella Berrini ",
+			"endereco": "Av. Engenheiro Luiz Carlos Berrini, 957, Cidade Monções - São Paulo-SP",
+			"Telefone": "(011) 97542-7669",
+			"Tipo": "Restaurante",
+			"lat": -23.605464,
+			"lng": -46.6930699
+		},
+		{
+			"Nome": "Villa Madre Steakhouse ",
+			"endereco": "Rua Juquinha Cintra, 80, Centro - Bragança Paulista-SP",
+			"Telefone": "(011) 94797-3145",
+			"Tipo": "Restaurante",
+			"lat": -22.9650852,
+			"lng": -46.5413017
+		},
+		{
+			"Nome": "Porco Feliz ",
+			"endereco": "Rua da Cantareira, 306, Box 26, Centro Histórico de São Paulo - São Paulo-SP",
+			"Telefone": "(011) 3322-5400",
+			"Tipo": "Casa de Carnes"
+		},
+		{
+			"Nome": "Carnes Perdizes",
+			"endereco": "Rua Piracuama, 454, Perdizes - São Paulo-SP",
+			"Telefone": "(011) 3672-7691",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5381966,
+			"lng": -46.6831915
+		},
+		{
+			"Nome": "Açougue Tutano",
+			"endereco": "Rua Santa Clara, 145, Copacabana - Rio de Janeiro-RJ",
+			"Telefone": "(021) 99441-9872",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.9699495,
+			"lng": -43.1888088
+		},
+		{
+			"Nome": "Crafters Beer e Beef",
+			"endereco": "Rua Dr. Mozart Furtado Nunes, 349, São Sebastião - Uberaba-MG",
+			"Telefone": "(034) 99861-1559",
+			"Tipo": "Restaurante",
+			"lat": -19.7484487,
+			"lng": -47.9464616
+		},
+		{
+			"Nome": "Dia a Dia Supermercado",
+			"endereco": "Av. Presidente Getúlio Vargas, 85, Jardim Matilde - Ourinhos-SP",
+			"Telefone": "(014) 3326-6037  ",
+			"Telefone 2": "(014) 99824-5713",
+			"Tipo": "Casa de Carnes",
+			"lat": -22.9897581,
+			"lng": -49.8712583
+		},
+		{
+			"Nome": "Paraisienne Prime ",
+			"endereco": "Rua Padre João Manoel, 574, Cerqueira César - São Paulo-SP",
+			"Telefone": "(011) 3891-1023  ",
+			"Telefone 2": "(011) 94060-0252",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.562687,
+			"lng": -46.6633376
+		},
+		{
+			"Nome": "Paraisienne Vila Mariana",
+			"endereco": "Av. Lins de Vasconcelos, 3002, Vila Mariana - São Paulo-SP",
+			"Telefone": "(011) 2476-9190  ",
+			"Telefone 2": "(011) 99104-6815",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.5877436,
+			"lng": -46.6299452
+		},
+		{
+			"Nome": "Prime Beef",
+			"endereco": "Rua Canário, 1193, Moema - São Paulo-SP",
+			"Telefone": "(011) 5052-8320",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.605156,
+			"lng": -46.6704099
+		},
+		{
+			"Nome": "Parisienne Moema",
+			"endereco": "Rua Tuim, 595 - Vila Uberabinha - São Paulo-SP",
+			"Telefone": "(011) 5096-1248  ",
+			"Telefone 2": "(011) 94060-0074",
+			"Tipo": "Casa de Carnes",
+			"lat": -23.6018673,
+			"lng": -46.6702492
+		},
+		{
+			"Nome": "Barbecue Army",
+			"endereco": "Av. Wallace Simonsen, 555, apto 152 B, Nova Petrópolis - São Bernardo do Campo-SP",
+			"Telefone": "(011) 97654-1407",
+			"Tipo": "Restaurante"
+		},
+		{
+			"Nome": "Casa Monti Açougue e Empório ",
+			"endereco": "Rua Luiz Soares da Rocha, 40, Luxemburgo - Belo Horizonte-MG",
+			"Telefone": "(031) 3504-3407",
+			"Tipo": "Casa de Carnes",
+			"lat": -19.9475805,
+			"lng": -43.9539497
+		},
+		{
+			"Nome": "Casa de Carne e Mercearia do Produtor ",
+			"endereco": "Rua Badue Elias Alem, 499, Santa Tereza - Três corações-MG",
+			"Telefone": "(035) 3234-1175",
+			"Tipo": "Casa de Carnes",
+			"lat": -21.7032201,
+			"lng": -45.2510367
+		},
+		{
+			"Nome": "Casa de Carnes Majestade",
+			"endereco": "Rua Tertuliano Delphim Junior, 531, Parque Residêncial Jardim Aquarius - São José dos Campos-SP",
+			"Telefone": "(012) 3206-0210  ",
+			"Telefone 2": "(012) 99164-1392",
+			"Tipo": "Casa de Carnes"
+		}
+	]
+}
