@@ -1,6 +1,25 @@
 {
 	"sobre": "Criada em 2017, a BBQ Secrets, pelo seu sabor e qualidade, ocupa hoje lugar de destaque no paladar de quem preza por uma carne que carrega consigo mais de 25 nos de estudos, pesquisas e aprimoramento, além de incontáveis acertos e erros, tempo em que o seu sócio fundador, o engenheiro agrônomo Roberto Barcellos, em parceria com a Frigol, se dedicou na busca pelo que há de melhor e mais completo no mundo da produção animal, aperfeiçoando o ciclo da carne de maneira completa.  \nCom o objetivo único de produzir carnes especiais de alta qualidade, usou suas mais de duas décadas de estudos para encontrar o que descreve hoje como o modelo ideal do produto. Foram diversos intercâmbios pelos países que sempre foram destaque no segmento, parcerias com empresas de genética, nutrição e sanidade, garantindo a evolução no manejo de forma consciente, com a padronização de toda a cadeia produtiva. \nO resultado de investimentos em blend de raças, ultrassonografia, terroir e maturação não poderia ser diferente do que se encontra hoje em cada corte da BBQ Secrets, uma carne com alta qualidade, marmoreio único, maciez, suculência e sabor incomparáveis para elevar o seu negócio a um patamar nunca antes vivenciado. \nBem-vindo ao universo BBQ Secrets!",
-	"fotos": {},
+	"fotos": [
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/4aa6df1f-7d92-4923-82e4-0b90613c1079.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/6e69fa3a-9b5e-4a6b-9cce-89deb57c6a93.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/8db71c36-8c32-4e84-9808-c7c2b115993e.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/9e1943c1-663e-4024-b6d1-2110e0a6474a.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/49ca4d25-321e-4847-8813-f256b6f9041c.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/712eae0e-da89-446f-b23e-eafc34d6f9c2.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/4453f656-41a1-4668-80ec-56cab1eb0b5d.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/8704f5a7-27ac-4c4d-a634-fc3da7e633c3.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/954604b3-4e36-48e4-ad48-0c02b70b0620.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/b56b5c6a-faeb-4bc6-aed9-9e66710cebfd.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/d2a0c36b-81a3-4964-8be2-aaa2c3c07133.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/d7a467b3-c125-46aa-aa53-973143af253b.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/e0216d09-70f3-4ae2-a814-32a5f2fec0a6.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/e473bd83-ba44-4bdd-921b-4fcc88e9dc36.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/ed7ed079-8d74-4778-bf65-c6c0a27050a5.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/ede0c1b5-de46-40b0-af46-7671d1292a0d.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/f4ac17e3-e68f-4430-90d2-80cd59d6e046.JPG",
+		"https://raw.githubusercontent.com/bbq-secrets/database/master/assets/fbcd3ff0-2e18-45c8-ad6f-c388e15e4329.JPG"
+	],
 	"pontos_venda": [{
 		"nome": "Santo Corte",
 		"endereco": "Rodovia João Amaral Gurgel, 980, Parque Residencial Maria Elmira - Caçapava-SP",
