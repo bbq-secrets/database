@@ -188,7 +188,7 @@
 		"id": 17
 	}, {
 		"nome": "Guimarães Casa de Carnes",
-		"endereco": "Rua Artur Rios, 1759https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png, Campo Grande - Rio de Janeiro-RJ",
+		"endereco": "Rua Artur Rios, 1759, Campo Grande - Rio de Janeiro-RJ",
 		"telefone": ["(021) 99133-4928"],
 		"tipo": "Casa de Carnes",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
@@ -206,7 +206,7 @@
 		"id": 19
 	}, {
 		"nome": "Aurora Hamburgueria Artesanal",
-		"endereco": "Rua Padre Anchieta, 235, https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.pngCentro - Presidente Venceslau-SP",
+		"endereco": "Rua Padre Anchieta, 235, Centro - Presidente Venceslau-SP",
 		"telefone": ["(018) 99141-3888"],
 		"tipo": "Hamburgueria",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
@@ -351,7 +351,7 @@
 		"id": 36
 	}, {
 		"nome": "Casa de Carnes Divino",
-		"endereco": "Av. Dr. Luiz Mendhttps://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.pnges de Almeida, 677, Vila Espírito Santo - Sorocaba-SP",
+		"endereco": "Av. Dr. Luiz Mendes de Almeida, 677, Vila Espírito Santo - Sorocaba-SP",
 		"telefone": ["(015) 3222-5907", "(015) 99724-7469"],
 		"tipo": "Casa de Carnes",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
@@ -501,7 +501,7 @@
 		"id": 53
 	}, {
 		"nome": "Reis Restaurante",
-		"endereco": "Av. Salvadorhttps://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png Markowicz, 531, Santa Helena - Bragança Paulista-SP",
+		"endereco": "Av. Salvador Markowicz, 531, Santa Helena - Bragança Paulista-SP",
 		"telefone": ["(011) 4032-1686"],
 		"tipo": "Restaurante",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
@@ -575,7 +575,7 @@
 		"id": 62
 	}, {
 		"nome": "Casa de Carnes JP",
-		"endereco": "Rua Dr Antônihttps://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.pngo Prado, 451 - Ourinhos-SP ",
+		"endereco": "Rua Dr Antônio Prado, 451 - Ourinhos-SP ",
 		"telefone": ["(014) 3335-1815"],
 		"tipo": "Casa de Carnes",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
@@ -827,7 +827,7 @@
 		"id": 90
 	}, {
 		"nome": "Casa de Carnes Majestade",
-		"endereco": "Rua Tertuliano Delphhttps://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.pngim Junior, 531, Parque Residêncial Jardim Aquarius - São José dos Campos-SP",
+		"endereco": "Rua Tertuliano Delphim Junior, 531, Parque Residêncial Jardim Aquarius - São José dos Campos-SP",
 		"telefone": ["(012) 3206-0210", "(012) 99164-1392"],
 		"tipo": "Casa de Carnes",
 		"tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
