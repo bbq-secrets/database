@@ -1,0 +1,18 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bbq-secrets/database.git",
+  "author": "Thiago Thaison <thiagothaison@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon . --ignore database.json",
+    "start": "node ."
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "qs": "^6.9.4"
+  }
+}
