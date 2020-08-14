@@ -1,5 +1,7 @@
 {
-  "sobre": "Criada em 2017, a BBQ Secrets, pelo seu sabor e qualidade, ocupa hoje lugar de destaque no paladar de quem preza por uma carne que carrega consigo mais de 25 nos de estudos, pesquisas e aprimoramento, além de incontáveis acertos e erros, tempo em que o seu sócio fundador, o engenheiro agrônomo Roberto Barcellos, em parceria com a Frigol, se dedicou na busca pelo que há de melhor e mais completo no mundo da produção animal, aperfeiçoando o ciclo da carne de maneira completa.  \nCom o objetivo único de produzir carnes especiais de alta qualidade, usou suas mais de duas décadas de estudos para encontrar o que descreve hoje como o modelo ideal do produto. Foram diversos intercâmbios pelos países que sempre foram destaque no segmento, parcerias com empresas de genética, nutrição e sanidade, garantindo a evolução no manejo de forma consciente, com a padronização de toda a cadeia produtiva. \nO resultado de investimentos em blend de raças, ultrassonografia, terroir e maturação não poderia ser diferente do que se encontra hoje em cada corte da BBQ Secrets, uma carne com alta qualidade, marmoreio único, maciez, suculência e sabor incomparáveis para elevar o seu negócio a um patamar nunca antes vivenciado. \nBem-vindo ao universo BBQ Secrets!",
+  "sobre": [
+    "Criada em 2017, a BBQ Secrets, pelo seu sabor e qualidade, ocupa hoje lugar de destaque no paladar de quem preza por uma carne que carrega consigo mais de 25 nos de estudos, pesquisas e aprimoramento, além de incontáveis acertos e erros, tempo em que o seu sócio fundador, o engenheiro agrônomo Roberto Barcellos, em parceria com a Frigol, se dedicou na busca pelo que há de melhor e mais completo no mundo da produção animal, aperfeiçoando o ciclo da carne de maneira completa.  \nCom o objetivo único de produzir carnes especiais de alta qualidade, usou suas mais de duas décadas de estudos para encontrar o que descreve hoje como o modelo ideal do produto. Foram diversos intercâmbios pelos países que sempre foram destaque no segmento, parcerias com empresas de genética, nutrição e sanidade, garantindo a evolução no manejo de forma consciente, com a padronização de toda a cadeia produtiva. \nO resultado de investimentos em blend de raças, ultrassonografia, terroir e maturação não poderia ser diferente do que se encontra hoje em cada corte da BBQ Secrets, uma carne com alta qualidade, marmoreio único, maciez, suculência e sabor incomparáveis para elevar o seu negócio a um patamar nunca antes vivenciado. \nBem-vindo ao universo BBQ Secrets!"
+  ],
   "fotos": [
     "https://raw.githubusercontent.com/bbq-secrets/database/master/assets/4aa6df1f-7d92-4923-82e4-0b90613c1079.JPG",
     "https://raw.githubusercontent.com/bbq-secrets/database/master/assets/6e69fa3a-9b5e-4a6b-9cce-89deb57c6a93.JPG",
@@ -25,9 +27,7 @@
       "nome": "Santo Corte",
       "endereco": "Rodovia João Amaral Gurgel, 980, Parque Residencial Maria Elmira - Caçapava-SP",
       "endereco_full": "Rodovia João Amaral Gurgel, 980, Loja 13 (dentro do Supermercado Shibata), Parque Residencial Maria Elmira - Caçapava-SP",
-      "telefone": [
-        "(012) 3224-0046"
-      ],
+      "telefone": ["(012) 3224-0046"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 0,
@@ -37,9 +37,7 @@
     {
       "nome": "Rancho Toro",
       "endereco": "Avenida Padre Jaime, 2350, Villa Ricci - Mogi Guaçu-SP‬",
-      "telefone": [
-        "(019) 97407-9801"
-      ],
+      "telefone": ["(019) 97407-9801"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.3797684,
@@ -49,10 +47,7 @@
     {
       "nome": "Meat & Co",
       "endereco": "Av. Moreira Guimarães, 700, Moema - São Paulo-SP",
-      "telefone": [
-        "(011) 45620040",
-        "(011) 45620050"
-      ],
+      "telefone": ["(011) 45620040", "(011) 45620050"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 2,
@@ -62,10 +57,7 @@
     {
       "nome": "Home Beef Shop",
       "endereco": "Av. Francisco das Chagas Oliveira, 212, Jardim Pinheiros - São José do Rio Preto-SP ",
-      "telefone": [
-        "(017) 3305-1312",
-        "(017) 98184-8757"
-      ],
+      "telefone": ["(017) 3305-1312", "(017) 98184-8757"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 3,
@@ -75,9 +67,7 @@
     {
       "nome": "Picanharia dos Amigos",
       "endereco": "Rua Pedralia, 370, Vila Gumercindo - São Paulo-SP",
-      "telefone": [
-        "(011) 96928-4585"
-      ],
+      "telefone": ["(011) 96928-4585"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.6058293,
@@ -87,9 +77,7 @@
     {
       "nome": "Picanharia dos Amigos",
       "endereco": "Rua Guaipá, 1017, Vila Leopoldina - São Paulo-SP",
-      "telefone": [
-        "(011) 96928-4585"
-      ],
+      "telefone": ["(011) 96928-4585"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5214466,
@@ -99,9 +87,7 @@
     {
       "nome": "Picanharia dos Amigos",
       "endereco": "Rua Relíquia, 33, Casa Verde - São Paulo-SP",
-      "telefone": [
-        "(011) 96928-4585"
-      ],
+      "telefone": ["(011) 96928-4585"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.508792,
@@ -112,9 +98,7 @@
       "nome": "Red Beef Prime",
       "endereco": "Av. Dr. Francisco Loup, 1122, Maresias - São Sebastião-SP",
       "endereco_full": "Av. Dr. Francisco Loup, 1122,  Loja 01/02, Maresias - São Sebastião-SP",
-      "telefone": [
-        "(012) 3865-7073"
-      ],
+      "telefone": ["(012) 3865-7073"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 7,
@@ -124,9 +108,7 @@
     {
       "nome": "Bruttus Burger",
       "endereco": "Av. Prefeito Hirant Sanazar, 98 - Umuarama - Osasco-SP",
-      "telefone": [
-        "(011) 4565-7441"
-      ],
+      "telefone": ["(011) 4565-7441"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -23.5489836,
@@ -136,9 +118,7 @@
     {
       "nome": "Meatbox",
       "endereco": "Rua Zacarias de Góis, 628 - Campo Belo - São Paulo-SP",
-      "telefone": [
-        "(011) 99645-9450"
-      ],
+      "telefone": ["(011) 99645-9450"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6275033,
@@ -148,9 +128,7 @@
     {
       "nome": "Meatbox",
       "endereco": "Rua Santa Cruz, 541 - Vila Mariana - São Paulo-SP",
-      "telefone": [
-        "(011) 99645-9450"
-      ],
+      "telefone": ["(011) 99645-9450"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5968505,
@@ -160,10 +138,7 @@
     {
       "nome": "Aurok Loja 1",
       "endereco": "Av.  José Bonifácil, 2525, Jardim das Paineras - Campinas-SP",
-      "telefone": [
-        "(019) 3367-6977",
-        "(019) 99967-6977"
-      ],
+      "telefone": ["(019) 3367-6977", "(019) 99967-6977"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.8984263,
@@ -174,10 +149,7 @@
       "nome": "Aurok Loja 2",
       "endereco": "Rua Jasmin, 215, Chácara Primavera - Campinas-SP ",
       "endereco_full": "Rua Jasmin, 215 - Loja 6 e 7, Chácara Primavera - Campinas-SP ",
-      "telefone": [
-        "(019) 3368-5828",
-        "(019) 99403-1989"
-      ],
+      "telefone": ["(019) 3368-5828", "(019) 99403-1989"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 12,
@@ -188,10 +160,7 @@
       "nome": "Aurok Loja 3",
       "endereco": "Av. Baden Powell, 1929, Jardim Nova Europa - Campinas-SP",
       "endereco_full": "Av. Baden Powell, 1929, Lojas 3 e 4, Jardim Nova Europa - Campinas-SP",
-      "telefone": [
-        "(019) 3203-9005",
-        "(019) 98976-6121"
-      ],
+      "telefone": ["(019) 3203-9005", "(019) 98976-6121"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 13,
@@ -202,9 +171,7 @@
       "nome": "Nomad Burger",
       "endereco": "Av. Getúlio Vargas, 6-15, Vila Guedes de Azevedo - Bauru-SP",
       "endereco_full": "Av. Getúlio Vargas, 6-15 (Galeria Victoria), Vila Guedes de Azevedo - Bauru-SP",
-      "telefone": [
-        "(014) 3010-8763"
-      ],
+      "telefone": ["(014) 3010-8763"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "id": 14,
@@ -215,9 +182,7 @@
       "nome": "Borges Carnes",
       "endereco": "Av. Gabriela Mistral, 160 - Mercado Municipal da Penha, Penha - São Paulo-SP",
       "endereco_full": "Av. Gabriela Mistral, 160, Box 3 - Mercado Municipal da Penha, Penha - São Paulo-SP",
-      "telefone": [
-        "(011) 2082-0522"
-      ],
+      "telefone": ["(011) 2082-0522"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 15,
@@ -227,9 +192,7 @@
     {
       "nome": "Melt",
       "endereco": "Av. Shishima Hifumi, 1620, Urbanova - São José dos Campos-SP",
-      "telefone": [
-        "(012) 98288-2176"
-      ],
+      "telefone": ["(012) 98288-2176"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.2019561,
@@ -239,9 +202,7 @@
     {
       "nome": "Empório 26",
       "endereco": "Rua 9a, 195, Vila Alemã - Rio Claro-SP",
-      "telefone": [
-        "(019) 3532-9092"
-      ],
+      "telefone": ["(019) 3532-9092"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.3970078,
@@ -251,9 +212,7 @@
     {
       "nome": "Guimarães Casa de Carnes",
       "endereco": "Rua Artur Rios, 1759, Campo Grande - Rio de Janeiro-RJ",
-      "telefone": [
-        "(021) 99133-4928"
-      ],
+      "telefone": ["(021) 99133-4928"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9026625,
@@ -263,9 +222,7 @@
     {
       "nome": "Good Frango",
       "endereco": "Rua Portugal, 255, Loteamento Nardini - Amparo-SP",
-      "telefone": [
-        "(019) 3807-7470"
-      ],
+      "telefone": ["(019) 3807-7470"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.710351,
@@ -275,9 +232,7 @@
     {
       "nome": "Aurora Hamburgueria Artesanal",
       "endereco": "Rua Padre Anchieta, 235, Centro - Presidente Venceslau-SP",
-      "telefone": [
-        "(018) 99141-3888"
-      ],
+      "telefone": ["(018) 99141-3888"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -21.878839,
@@ -287,9 +242,7 @@
     {
       "nome": "Charmoso Burger",
       "endereco": "Rua Padre Duarte, 2106, Centro - Araraquara-SP",
-      "telefone": [
-        "(016) 3331-3011"
-      ],
+      "telefone": ["(016) 3331-3011"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -21.7876859,
@@ -299,9 +252,7 @@
     {
       "nome": "Litoral Meat",
       "endereco": "Rua do Petróleo, 22, Porto Grande, São Sebastião-SP",
-      "telefone": [
-        "(012) 97401-3960"
-      ],
+      "telefone": ["(012) 97401-3960"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 22,
@@ -311,9 +262,7 @@
     {
       "nome": "Prime Beef Boutique de Carnes",
       "endereco": "Av. Francisco Assis Monteiro de Castro, 43, Vila Oliveira - Mogi das Cruzes-SP",
-      "telefone": [
-        "(011) 93803-8949"
-      ],
+      "telefone": ["(011) 93803-8949"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5228404,
@@ -323,10 +272,7 @@
     {
       "nome": "Loja do Churrasco",
       "endereco": "Rua Sargento Pierroti, 234, Centro - Limeira-SP",
-      "telefone": [
-        "(019) 211435-14",
-        "(019) 99594-0540"
-      ],
+      "telefone": ["(019) 211435-14", "(019) 99594-0540"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.5684656,
@@ -336,9 +282,7 @@
     {
       "nome": "Espetaria Santo Américo",
       "endereco": "Rua Vereador Lazaro Caceres, 242, Cohab 4 - Pirangi-SP",
-      "telefone": [
-        "(017) 99747-7952"
-      ],
+      "telefone": ["(017) 99747-7952"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 25,
@@ -348,10 +292,7 @@
     {
       "nome": "Vila Beef",
       "endereco": "Av. Portugal, 1148, Jardim São Luiz - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 3623-4321",
-        "(016) 99706-4321"
-      ],
+      "telefone": ["(016) 3623-4321", "(016) 99706-4321"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.1972145,
@@ -361,9 +302,7 @@
     {
       "nome": "Bovinos Prime",
       "endereco": "Rua 15 de Novembro, 1066, Centro - Santa Barbara d'Oeste-SP",
-      "telefone": [
-        "(019) 99690-1663"
-      ],
+      "telefone": ["(019) 99690-1663"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.758747,
@@ -373,10 +312,7 @@
     {
       "nome": "M. Rodrigues By Maurício",
       "endereco": "Rua Thomáz Nogueira Gaia, 1759, Jardm Iraja - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 98154-7640",
-        "(016) 3911-2330"
-      ],
+      "telefone": ["(016) 98154-7640", "(016) 3911-2330"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.2081298,
@@ -386,9 +322,7 @@
     {
       "nome": "The Premium Steaks",
       "endereco": "Travessa Bras de Aguiar, 279, Nazaré - Belém-PA",
-      "telefone": [
-        "(091) 9120-4458"
-      ],
+      "telefone": ["(091) 9120-4458"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -1.454774,
@@ -398,10 +332,7 @@
     {
       "nome": "Emporio da Bica - Boutique de Carnes",
       "endereco": "Rua Silvia Constantino Souza, 40, Centro Pitangueiras - Guarujá-SP",
-      "telefone": [
-        "(013) 3359-6161",
-        "(013) 99615-5937"
-      ],
+      "telefone": ["(013) 3359-6161", "(013) 99615-5937"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 30,
@@ -411,9 +342,7 @@
     {
       "nome": "Casa London",
       "endereco": "Alameda Rio Negro, 1286, Alphaville - Barueri-SP",
-      "telefone": [
-        "(011) 4191-0809"
-      ],
+      "telefone": ["(011) 4191-0809"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 31,
@@ -423,9 +352,7 @@
     {
       "nome": "Casa London",
       "endereco": "Av. Yojiro Takaoka, 4492 - Centro de Apoio I (Alphaville), Santana de Parnaíba-SP",
-      "telefone": [
-        "(011) 4153-3110"
-      ],
+      "telefone": ["(011) 4153-3110"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.4637663,
@@ -435,10 +362,7 @@
     {
       "nome": "Talho Meat Shop",
       "endereco": "Av. Diógenes Ribeiro de Lima, 2314, Alto de Pinheiro - Sao Paulo-SP ",
-      "telefone": [
-        "(011) 3021-0250",
-        "(011) 94792-5705"
-      ],
+      "telefone": ["(011) 3021-0250", "(011) 94792-5705"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5399036,
@@ -448,10 +372,7 @@
     {
       "nome": "Talho Meat Shop 2",
       "endereco": "Rua Passo da Pátria, 790D, Vila Leopoldina - São Paulo-SP",
-      "telefone": [
-        "(011) 3021-0250",
-        "(011) 94792-5705"
-      ],
+      "telefone": ["(011) 3021-0250", "(011) 94792-5705"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.527784,
@@ -461,10 +382,7 @@
     {
       "nome": "Mian Carnes Nobres",
       "endereco": "Rua Raimundo Correia, 886, Vila Monteiro - São Carlos-SP",
-      "telefone": [
-        "(016) 3368-1460",
-        "(016) 98827-3307"
-      ],
+      "telefone": ["(016) 3368-1460", "(016) 98827-3307"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 35,
@@ -474,10 +392,7 @@
     {
       "nome": "Afonso's Carnes Especiais",
       "endereco": "Av. Nossa Sra. do Carmo, 1270, São Pedro - Belo Horizonte-MG",
-      "telefone": [
-        "(031) 3286-2807",
-        "(031) 99891-7943"
-      ],
+      "telefone": ["(031) 3286-2807", "(031) 99891-7943"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -19.9498785,
@@ -487,10 +402,7 @@
     {
       "nome": "Casa de Carnes Divino",
       "endereco": "Av. Dr. Luiz Mendes de Almeida, 677, Vila Espírito Santo - Sorocaba-SP",
-      "telefone": [
-        "(015) 3222-5907",
-        "(015) 99724-7469"
-      ],
+      "telefone": ["(015) 3222-5907", "(015) 99724-7469"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5182869,
@@ -501,9 +413,7 @@
       "nome": "Q Marché",
       "endereco": "Av. Rachel de Queiroz, 951, Barra da Tijuca - Rio de Janeiro-RJ",
       "endereco_full": "Av. Rachel de Queiroz, 951, loja 101, Barra da Tijuca - Rio de Janeiro-RJ",
-      "telefone": [
-        "(021) 3514-2848"
-      ],
+      "telefone": ["(021) 3514-2848"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 38,
@@ -513,9 +423,7 @@
     {
       "nome": "Chack-Ho Carnes Nobres",
       "endereco": "Rua Lauro Azevedo Oliveira, 309, Vila São Francisco - São Paulo-SP",
-      "telefone": [
-        "(011) 99608-1379"
-      ],
+      "telefone": ["(011) 99608-1379"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5172113,
@@ -525,9 +433,7 @@
     {
       "nome": "Frigorífico Torres",
       "endereco": "Av. General Valdomiro de Lima, 125, Parque Jabaquara - São Paulo-SP",
-      "telefone": [
-        "(011) 5011-1255"
-      ],
+      "telefone": ["(011) 5011-1255"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6381313,
@@ -537,10 +443,7 @@
     {
       "nome": "Empório Canastra",
       "endereco": "Rua do Rosário, 361, Bairro Angola - Betim-MG",
-      "telefone": [
-        "(031) 99562-7581",
-        "(031) 99562-7539"
-      ],
+      "telefone": ["(031) 99562-7581", "(031) 99562-7539"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 41,
@@ -550,9 +453,7 @@
     {
       "nome": "BJ - Açougue e Churrasco",
       "endereco": "Rua Edno Fregonsei, 45, Sala 1, Jd Nova Aliança Sul - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 99764-4441"
-      ],
+      "telefone": ["(016) 99764-4441"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 42,
@@ -562,10 +463,7 @@
     {
       "nome": "Soft Beef",
       "endereco": "Av. Presidente Vargas, 1660, Jardim Sumaré - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 3236-7001",
-        "(016) 98154-8209"
-      ],
+      "telefone": ["(016) 3236-7001", "(016) 98154-8209"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.1927747,
@@ -575,9 +473,7 @@
     {
       "nome": "Adega Mendes Boutique de Carnes ",
       "endereco": "Av. XV de Novembro, 1633, Centro - Itapecerica de Serra-SP",
-      "telefone": [
-        "(011) 4667-7632"
-      ],
+      "telefone": ["(011) 4667-7632"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.7019571,
@@ -587,9 +483,7 @@
     {
       "nome": "SpazioLab",
       "endereco": "Rua Bom Pastor, 1835, Ipiranga - São Paulo-SP",
-      "telefone": [
-        "(011) 2061-4688"
-      ],
+      "telefone": ["(011) 2061-4688"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -23.5927443,
@@ -599,9 +493,7 @@
     {
       "nome": "BBQ House",
       "endereco": "Rua Adolfo Bianco, 101, Central Park - Batatais-SP",
-      "telefone": [
-        "(016) 99756-8082"
-      ],
+      "telefone": ["(016) 99756-8082"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -20.8948557,
@@ -611,10 +503,7 @@
     {
       "nome": "Meat House Premiun Alto Ipiranga",
       "endereco": "Rua José Benedito Batalha, 44, Alto Ipiranga - Mogi das Cruzes-SP",
-      "telefone": [
-        "(011) 2378-3443",
-        "(011) 99983-6119"
-      ],
+      "telefone": ["(011) 2378-3443", "(011) 99983-6119"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5314385,
@@ -625,10 +514,7 @@
       "nome": "Meat House Premiun Aruã",
       "endereco": "Av. Presidente General Dutra, 100, Cidade Parquelandia - Mogi das Cruzes-SP",
       "endereco_full": "Av. Presidente General Dutra, 100, (Aruã Boulevard), Cidade Parquelandia - Mogi das Cruzes-SP",
-      "telefone": [
-        "(011) 2629-2976",
-        "(011) 94042-4151"
-      ],
+      "telefone": ["(011) 2629-2976", "(011) 94042-4151"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 48,
@@ -638,9 +524,7 @@
     {
       "nome": "La Carneria",
       "endereco": "Av. Pres. Vargas, 261, Res. Dona Tunica - Pará de Minas-MG",
-      "telefone": [
-        "(037) 99841-0426"
-      ],
+      "telefone": ["(037) 99841-0426"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -19.8657372,
@@ -650,10 +534,7 @@
     {
       "nome": "Steak 83",
       "endereco": "Av. Saudade, 1503, Saudade - Araçatuba-SP",
-      "telefone": [
-        "(018) 3304-6020",
-        "(018) 98119-0183"
-      ],
+      "telefone": ["(018) 3304-6020", "(018) 98119-0183"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.2262871,
@@ -663,9 +544,7 @@
     {
       "nome": "Meat Club São Paulo",
       "endereco": "Estrada Velha da Penha, 80, Loja 4, Tatuapé - São Paulo-SP",
-      "telefone": [
-        "(011) 94724-5984"
-      ],
+      "telefone": ["(011) 94724-5984"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5282328,
@@ -676,9 +555,7 @@
       "nome": "Santa Carne ABC",
       "endereco": "Rua Cruzeiro do Sul,96, Vila Pires - Santo André-SP",
       "endereco_full": "Rua Cruzeiro do Sul,96, Sala 02, Vila Pires - Santo André-SP",
-      "telefone": [
-        "(011) 97277-4686"
-      ],
+      "telefone": ["(011) 97277-4686"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 52,
@@ -688,9 +565,7 @@
     {
       "nome": "Balderi Pasta e Arte",
       "endereco": "Rua Tabaiares, 229, Vila Assunção - Santo André-SP",
-      "telefone": [
-        "(011) 2598-0698"
-      ],
+      "telefone": ["(011) 2598-0698"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.6673198,
@@ -700,9 +575,7 @@
     {
       "nome": "Reis Restaurante",
       "endereco": "Av. Salvador Markowicz, 531, Santa Helena - Bragança Paulista-SP",
-      "telefone": [
-        "(011) 4032-1686"
-      ],
+      "telefone": ["(011) 4032-1686"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "id": 54,
@@ -712,9 +585,7 @@
     {
       "nome": "JP Boutique de Carnes",
       "endereco": "Rua Senador Paulo Sarazate, 251, Bairro Michel - Criciúma-SC",
-      "telefone": [
-        "(048) 3413-8121"
-      ],
+      "telefone": ["(048) 3413-8121"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 55,
@@ -724,9 +595,7 @@
     {
       "nome": "Burguer Mania ",
       "endereco": "Rua Álvaro Gonçalves, 216, Vila de Cava - Nova Iguaçu-RJ ",
-      "telefone": [
-        "(021) 97122-9936"
-      ],
+      "telefone": ["(021) 97122-9936"],
       "tipo": "Hamburgueria",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "id": 56,
@@ -736,10 +605,7 @@
     {
       "nome": "Bonas Carnes ",
       "endereco": "Av Oratório, 2388, Parque São Lucas - São Paulo-SP",
-      "telefone": [
-        "(011) 2115-3408",
-        "(011) 2916-4537"
-      ],
+      "telefone": ["(011) 2115-3408", "(011) 2916-4537"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5930378,
@@ -749,9 +615,7 @@
     {
       "nome": "Bison BBQ ",
       "endereco": "Rua Maria José, 9-75 - Bauru-SP",
-      "telefone": [
-        "(014) 99782-7175"
-      ],
+      "telefone": ["(014) 99782-7175"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.329848,
@@ -762,10 +626,7 @@
       "nome": "Wcarnes Prime",
       "endereco": "Av. Jóquei Clube, 1631, Centro Comercial Mercado da Villa - Teresina-PI ",
       "endereco_full": "Av. Jóquei Clube, 1631, Salas 1 e 2, Centro Comercial Mercado da Villa - Teresina-PI ",
-      "telefone": [
-        "(086) 3305-3031",
-        "(086) 99823-2210"
-      ],
+      "telefone": ["(086) 3305-3031", "(086) 99823-2210"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 59,
@@ -775,9 +636,7 @@
     {
       "nome": "Feed S.A.",
       "endereco": "Rua Doutor Mário Ferraz, 547, Jardim Europa - São Paulo-SP",
-      "telefone": [
-        "(011) 5627-4700"
-      ],
+      "telefone": ["(011) 5627-4700"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5831993,
@@ -787,9 +646,7 @@
     {
       "nome": "Original CO. Burger & Steak ",
       "endereco": "Rua Azevedo Sodre, 114, Gonzaga - Santos-SP ",
-      "telefone": [
-        "(013) 98117-9185"
-      ],
+      "telefone": ["(013) 98117-9185"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.9660648,
@@ -799,9 +656,7 @@
     {
       "nome": "Luis Fernando Quinteiro Carnes ",
       "endereco": "Rua José Ferreira Aranha, 171, Vila Rehder - Americana-SP ",
-      "telefone": [
-        "(019) 98139-9009"
-      ],
+      "telefone": ["(019) 98139-9009"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.7435371,
@@ -811,9 +666,7 @@
     {
       "nome": "Casa de Carnes JP",
       "endereco": "Rua Dr Antônio Prado, 451 - Ourinhos-SP ",
-      "telefone": [
-        "(014) 3335-1815"
-      ],
+      "telefone": ["(014) 3335-1815"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9727067,
@@ -823,9 +676,7 @@
     {
       "nome": "Toca do Peixe ",
       "endereco": "Av. Orestes Quércia, 290, Centro - Ituverava-SP ",
-      "telefone": [
-        "(016) 3729-6430"
-      ],
+      "telefone": ["(016) 3729-6430"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -20.3322302,
@@ -835,11 +686,7 @@
     {
       "nome": "Bom Beef",
       "endereco": "Av Doutor Pedro Lessa, 2526, Embare - Santos-SP",
-      "telefone": [
-        "(013) 3236-7764",
-        "(013) 3301-5886",
-        "(013) 97404-5929"
-      ],
+      "telefone": ["(013) 3236-7764", "(013) 3301-5886", "(013) 97404-5929"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.9672574,
@@ -849,10 +696,7 @@
     {
       "nome": "Debetti",
       "endereco": "Rua Curumins, 11, Cidade Jardim - São Paulo-SP",
-      "telefone": [
-        "(011) 3032-8875",
-        "(011) 3032-0617"
-      ],
+      "telefone": ["(011) 3032-8875", "(011) 3032-0617"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5930659,
@@ -862,9 +706,7 @@
     {
       "nome": "Braza 5",
       "endereco": "Rua Victório Partênio, 62, Parque Monte Líbano - Mogi das Cruzes-SP",
-      "telefone": [
-        "(011) 2610-1322"
-      ],
+      "telefone": ["(011) 2610-1322"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5185252,
@@ -874,10 +716,7 @@
     {
       "nome": "Faveiro Carnes e Emporio ",
       "endereco": "Rua Maria Tereza Dias da Silva, 896 - Campinas-SP",
-      "telefone": [
-        "(019) 3289-7163 ",
-        "(019) 3289-0966"
-      ],
+      "telefone": ["(019) 3289-7163 ", "(019) 3289-0966"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.8071682,
@@ -888,9 +727,7 @@
       "nome": "Açougue Taquari ",
       "endereco": "Estrada do Rosário, 1004, Jardim Primavera - Duque de Caxias-RJ",
       "endereco_full": "Estrada do Rosário, 1004, Loja 2, Jardim Primavera - Duque de Caxias-RJ",
-      "telefone": [
-        "(021) 98389-9024"
-      ],
+      "telefone": ["(021) 98389-9024"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 69,
@@ -900,9 +737,7 @@
     {
       "nome": "Confraria da Carne",
       "endereco": "Av. Doutor Vital Brasil, 984, Vila São Lucio - Botucatu-SP",
-      "telefone": [
-        "(014) 3882-7733"
-      ],
+      "telefone": ["(014) 3882-7733"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.8835769,
@@ -912,10 +747,7 @@
     {
       "nome": "Clube da Carne Steakhouse ",
       "endereco": "Av. Dr. Renato de Andrade Maia, 564, Jardim Maia - Guarulhos-SP ",
-      "telefone": [
-        "(011) 2440-1564",
-        "(011) 99589-5616"
-      ],
+      "telefone": ["(011) 2440-1564", "(011) 99589-5616"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.4550529,
@@ -925,9 +757,7 @@
     {
       "nome": "Esquina 84",
       "endereco": "Rua São Pedro, 84, Bairro Todos os Santos - Montes Claros-MG",
-      "telefone": [
-        "(038) 99860-8484"
-      ],
+      "telefone": ["(038) 99860-8484"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "id": 72,
@@ -938,10 +768,7 @@
       "nome": "Meat4You",
       "endereco": "Av Vice Presidente José Alencar, 1405, Jacarepaguá - Rio de Janeiro-RJ",
       "endereco_full": "Av Vice Presidente José Alencar, 1405, Lojas F e G, Jacarepaguá - Rio de Janeiro-RJ",
-      "telefone": [
-        "(021) 99941-3064",
-        "(021) 2431-5056"
-      ],
+      "telefone": ["(021) 99941-3064", "(021) 2431-5056"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 73,
@@ -951,9 +778,7 @@
     {
       "nome": "Empório de Carnes Noroeste",
       "endereco": "Rua Tabajaras, 664, Centro - Araçatuba-SP",
-      "telefone": [
-        "(018) 99790-0056"
-      ],
+      "telefone": ["(018) 99790-0056"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.2108358,
@@ -963,9 +788,7 @@
     {
       "nome": "Hortifruti 737",
       "endereco": "Rua Vieira de Morais, 737, Campo Belo - Sao Paulo-SP",
-      "telefone": [
-        "(011) 5044-0737"
-      ],
+      "telefone": ["(011) 5044-0737"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6201668,
@@ -975,9 +798,7 @@
     {
       "nome": "Rock Fella Vila Olimpia ",
       "endereco": "Rua Rócio, 89, Vila Olimpia, São Paulo-SP",
-      "telefone": [
-        "(011) 99699-6292"
-      ],
+      "telefone": ["(011) 99699-6292"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5938882,
@@ -987,9 +808,7 @@
     {
       "nome": "Rock Fella Berrini ",
       "endereco": "Av. Engenheiro Luiz Carlos Berrini, 957, Cidade Monções - São Paulo-SP",
-      "telefone": [
-        "(011) 97542-7669"
-      ],
+      "telefone": ["(011) 97542-7669"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.605464,
@@ -999,9 +818,7 @@
     {
       "nome": "Villa Madre Steakhouse ",
       "endereco": "Rua Juquinha Cintra, 80, Centro - Bragança Paulista-SP",
-      "telefone": [
-        "(011) 94797-3145"
-      ],
+      "telefone": ["(011) 94797-3145"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.9650852,
@@ -1012,9 +829,7 @@
       "nome": "Porco Feliz ",
       "endereco": "Rua da Cantareira, 306, Centro Histórico de São Paulo - São Paulo-SP",
       "endereco_full": "Rua da Cantareira, 306, Box 26, Centro Histórico de São Paulo - São Paulo-SP",
-      "telefone": [
-        "(011) 3322-5400"
-      ],
+      "telefone": ["(011) 3322-5400"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 79,
@@ -1024,9 +839,7 @@
     {
       "nome": "Carnes Perdizes",
       "endereco": "Rua Piracuama, 454, Perdizes - São Paulo-SP",
-      "telefone": [
-        "(011) 3672-7691"
-      ],
+      "telefone": ["(011) 3672-7691"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5381966,
@@ -1036,9 +849,7 @@
     {
       "nome": "Açougue Tutano",
       "endereco": "Rua Santa Clara, 145, Copacabana - Rio de Janeiro-RJ",
-      "telefone": [
-        "(021) 99441-9872"
-      ],
+      "telefone": ["(021) 99441-9872"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9699495,
@@ -1048,9 +859,7 @@
     {
       "nome": "Crafters Beer e Beef",
       "endereco": "Rua Dr. Mozart Furtado Nunes, 349, São Sebastião - Uberaba-MG",
-      "telefone": [
-        "(034) 99861-1559"
-      ],
+      "telefone": ["(034) 99861-1559"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -19.7484487,
@@ -1060,10 +869,7 @@
     {
       "nome": "Dia a Dia Supermercado",
       "endereco": "Av. Presidente Getúlio Vargas, 85, Jardim Matilde - Ourinhos-SP",
-      "telefone": [
-        "(014) 3326-6037",
-        "(014) 99824-5713"
-      ],
+      "telefone": ["(014) 3326-6037", "(014) 99824-5713"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9897581,
@@ -1073,10 +879,7 @@
     {
       "nome": "Paraisienne Prime ",
       "endereco": "Rua Padre João Manoel, 574, Cerqueira César - São Paulo-SP",
-      "telefone": [
-        "(011) 3891-1023",
-        "(011) 94060-0252"
-      ],
+      "telefone": ["(011) 3891-1023", "(011) 94060-0252"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.562687,
@@ -1086,10 +889,7 @@
     {
       "nome": "Paraisienne Vila Mariana",
       "endereco": "Av. Lins de Vasconcelos, 3002, Vila Mariana - São Paulo-SP",
-      "telefone": [
-        "(011) 2476-9190",
-        "(011) 99104-6815"
-      ],
+      "telefone": ["(011) 2476-9190", "(011) 99104-6815"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5877436,
@@ -1099,9 +899,7 @@
     {
       "nome": "Prime Beef",
       "endereco": "Rua Canário, 1193, Moema - São Paulo-SP",
-      "telefone": [
-        "(011) 5052-8320"
-      ],
+      "telefone": ["(011) 5052-8320"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.605156,
@@ -1111,10 +909,7 @@
     {
       "nome": "Parisienne Moema",
       "endereco": "Rua Tuim, 595 - Vila Uberabinha - São Paulo-SP",
-      "telefone": [
-        "(011) 5096-1248",
-        "(011) 94060-0074"
-      ],
+      "telefone": ["(011) 5096-1248", "(011) 94060-0074"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6018673,
@@ -1125,9 +920,7 @@
       "nome": "Barbecue Army",
       "endereco": "Av. Wallace Simonsen, 555, Nova Petrópolis - São Bernardo do Campo-SP",
       "endereco_full": "Av. Wallace Simonsen, 555, apto 152 B, Nova Petrópolis - São Bernardo do Campo-SP",
-      "telefone": [
-        "(011) 97654-1407"
-      ],
+      "telefone": ["(011) 97654-1407"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "id": 88,
@@ -1137,9 +930,7 @@
     {
       "nome": "Casa Monti Açougue e Empório ",
       "endereco": "Rua Luiz Soares da Rocha, 40, Luxemburgo - Belo Horizonte-MG",
-      "telefone": [
-        "(031) 3504-3407"
-      ],
+      "telefone": ["(031) 3504-3407"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -19.9475805,
@@ -1149,9 +940,7 @@
     {
       "nome": "Casa de Carne e Mercearia do Produtor ",
       "endereco": "Rua Badue Elias Alem, 499, Santa Tereza - Três corações-MG",
-      "telefone": [
-        "(035) 3234-1175"
-      ],
+      "telefone": ["(035) 3234-1175"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.7032201,
@@ -1161,10 +950,7 @@
     {
       "nome": "Casa de Carnes Majestade",
       "endereco": "Rua Tertuliano Delphim Junior, 531, Parque Residêncial Jardim Aquarius - São José dos Campos-SP",
-      "telefone": [
-        "(012) 3206-0210",
-        "(012) 99164-1392"
-      ],
+      "telefone": ["(012) 3206-0210", "(012) 99164-1392"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 91,
@@ -1175,9 +961,7 @@
       "id": "92",
       "nome": "Rock in Hop",
       "endereco": "Rua dos Alecrins, 740, Cambui - Campinas-SP",
-      "telefone": [
-        "(019) 3217-8665"
-      ],
+      "telefone": ["(019) 3217-8665"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.8894294,
@@ -1187,9 +971,7 @@
       "id": "93",
       "nome": "BBQ Corner",
       "endereco": "Rua Rio da Prata, 225, Jardim Interlagos - Hortolandia-SP",
-      "telefone": [
-        "(019) 99316-3805"
-      ],
+      "telefone": ["(019) 99316-3805"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.85833,
@@ -1199,9 +981,7 @@
       "id": "94",
       "nome": "Empório Gaino",
       "endereco": "Avenida Luiz Saldanha Rodrigues, 1306, Nova Ourinhos - Ourinhos-SP",
-      "telefone": [
-        "(014) 3324-2880"
-      ],
+      "telefone": ["(014) 3324-2880"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.97889,
@@ -1211,9 +991,7 @@
       "id": "95",
       "nome": "Casa do Churrasco",
       "endereco": "Av. Senador Vergueiro, 3932, Rudge Ramos - São Bernardo do Campo-SP",
-      "telefone": [
-        "(011) 4177-4740"
-      ],
+      "telefone": ["(011) 4177-4740"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6654897,
@@ -1223,9 +1001,7 @@
       "id": "96",
       "nome": "Sagaz Assado",
       "endereco": "Rua João Gomes, 148, Rio vermelho - Salvador-BA",
-      "telefone": [
-        "(071) 3367-5988"
-      ],
+      "telefone": ["(071) 3367-5988"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -13.0122895,
@@ -1235,9 +1011,7 @@
       "id": "97",
       "nome": "Prime Meat Empório & Grill",
       "endereco": "Av. Cassiano Ricardo, 1160, Jardim Alvorada - São José dos Campos-SP",
-      "telefone": [
-        "(012) 3346-9600"
-      ],
+      "telefone": ["(012) 3346-9600"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.225762,
@@ -1247,9 +1021,7 @@
       "id": "98",
       "nome": "BBQ Na Brasa",
       "endereco": "Rodovia Raposo Tavares, 7389 - São Paulo-SP",
-      "telefone": [
-        "(011) 93049-2728"
-      ],
+      "telefone": ["(011) 93049-2728"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.1787912,
@@ -1259,9 +1031,7 @@
       "id": "99",
       "nome": "Conveniência Saudade",
       "endereco": "Av. Da Saudade, 914, Santa Marta - Uberaba-MG ",
-      "telefone": [
-        "(034) 3333-8690"
-      ],
+      "telefone": ["(034) 3333-8690"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -19.74833,
@@ -1271,9 +1041,7 @@
       "id": "100",
       "nome": "Espetinhos Esperança",
       "endereco": "Rua Monsenhor Freitas, 18, Interlagos - São Paulo-SP ",
-      "telefone": [
-        "(011) 5666-3100"
-      ],
+      "telefone": ["(011) 5666-3100"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.7078863,
@@ -1283,9 +1051,7 @@
       "id": "101",
       "nome": "Baboo Beef",
       "endereco": "Rua Dr. Ederaldo Aurélio Francese, 15 - Valinhos-SP",
-      "telefone": [
-        "(019) 3871-2014"
-      ],
+      "telefone": ["(019) 3871-2014"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.97056,
@@ -1295,10 +1061,7 @@
       "id": "102",
       "nome": "Açougue São Joaquim",
       "endereco": "Rua Rocha Pombo, 898, Centro - Campo Largo-PR",
-      "telefone": [
-        "(041) 3292-3009",
-        "(041) 99915-0477"
-      ],
+      "telefone": ["(041) 3292-3009", "(041) 99915-0477"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -25.45955,
@@ -1308,10 +1071,7 @@
       "id": "103",
       "nome": "Magazzino Vinhos e Cozinha",
       "endereco": "Rua Potengi, 576, Petrópolis - Natal-RN",
-      "telefone": [
-        "(084) 3212.1477",
-        "(084) 98162.0611"
-      ],
+      "telefone": ["(084) 3212.1477", "(084) 98162.0611"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -5.785532,
@@ -1321,10 +1081,7 @@
       "id": "104",
       "nome": "Soft Beef",
       "endereco": "Av. Presidente Vargas, 1660, Jardim Sumaré - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 3236-7001",
-        "(016) 98154-8209"
-      ],
+      "telefone": ["(016) 3236-7001", "(016) 98154-8209"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.2027485,
@@ -1334,9 +1091,7 @@
       "id": "105",
       "nome": "Cavi Empório",
       "endereco": "Rua Mariz e Barros, 171, Icaraí - Niterói-RJ ",
-      "telefone": [
-        "(021)2719-3440"
-      ],
+      "telefone": ["(021)2719-3440"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9089859,
@@ -1346,9 +1101,7 @@
       "id": "106",
       "nome": "Dom Beef ",
       "endereco": "Rua Rio Grande do Sul, 511 - Marília-SP",
-      "telefone": [
-        "(014) 3113-5397"
-      ],
+      "telefone": ["(014) 3113-5397"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.0140143,
@@ -1358,9 +1111,7 @@
       "id": "107",
       "nome": "Clube do Churrasco ",
       "endereco": "Av. Teixeira e Souza, 1119, Centro - Cabo Frio-RJ ",
-      "telefone": [
-        "(022) 98814-6007"
-      ],
+      "telefone": ["(022) 98814-6007"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.8886167,
@@ -1370,9 +1121,7 @@
       "id": "108",
       "nome": "Meet & Meat Steakhouse",
       "endereco": "Rodovia Mábio Gonçalves Palhano, 200, Loja 19 - Londrina-PR",
-      "telefone": [
-        "(043) 98800-1572"
-      ],
+      "telefone": ["(043) 98800-1572"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.4082345,
@@ -1382,9 +1131,7 @@
       "id": "109",
       "nome": "Majestade",
       "endereco": "Av. Paraíso, 56, Jardim América - São José dos Campos-SP ",
-      "telefone": [
-        "(012) 3322-0437"
-      ],
+      "telefone": ["(012) 3322-0437"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.2366335,
@@ -1394,9 +1141,7 @@
       "id": "110",
       "nome": "GP Carnes Nobres",
       "endereco": "Rua 13 de Maio, 546/2, Centro - Catanduva-SP",
-      "telefone": [
-        "(017) 99660-5521"
-      ],
+      "telefone": ["(017) 99660-5521"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.13778,
@@ -1406,9 +1151,7 @@
       "id": "111",
       "nome": "Manda Brasa Delivery",
       "endereco": "Av. Moacir Oséias Guitti, 40, Jardim Paraíso - Votorantim-SP ",
-      "telefone": [
-        "(015) 99862-5939"
-      ],
+      "telefone": ["(015) 99862-5939"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.54667,
@@ -1418,10 +1161,7 @@
       "id": "112",
       "nome": "O Açougue",
       "endereco": "Rua Turiassu, 902, Perdizes - São Paulo-SP ",
-      "telefone": [
-        "(011) 3675-6630",
-        "(011) 94067-7585"
-      ],
+      "telefone": ["(011) 3675-6630", "(011) 94067-7585"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5327479,
@@ -1431,9 +1171,7 @@
       "id": "113",
       "nome": "Luz, Câmera, Burger! ",
       "endereco": "Rua Caravelas, 339 - São Paulo-SP ",
-      "telefone": [
-        "(011) 3564-5410"
-      ],
+      "telefone": ["(011) 3564-5410"],
       "tipo": "Hamburgueria ",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -23.5825067,
@@ -1443,9 +1181,7 @@
       "id": "114",
       "nome": "Seek Burguer ",
       "endereco": "Av. 27, 155, Vila Santo Antônio - Rio Claro-SP ",
-      "telefone": [
-        "(019) 3532-1843"
-      ],
+      "telefone": ["(019) 3532-1843"],
       "tipo": "Hamburgueria ",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -22.41139,
@@ -1455,9 +1191,7 @@
       "id": "115",
       "nome": "Bernaske American BBQ",
       "endereco": "Rua Argentina, 432, Vila Carvalho - Araçatuba-SP",
-      "telefone": [
-        "(018) 99676-3389"
-      ],
+      "telefone": ["(018) 99676-3389"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -21.20889,
@@ -1467,9 +1201,7 @@
       "id": "116",
       "nome": "Lá Morada 041",
       "endereco": "Av. Presidente Getúlio Vargas,3309, Água Verde - Curitiba-PR",
-      "telefone": [
-        "(041) 4101-7893"
-      ],
+      "telefone": ["(041) 4101-7893"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -25.4523818,
@@ -1479,9 +1211,7 @@
       "id": "117",
       "nome": "Xurrasclube ",
       "endereco": "Av. Nossa Senhora da Glória, 2469, Loja 2, Cavaleiros - Macae-RJ",
-      "telefone": [
-        "(022) 99929-0402"
-      ],
+      "telefone": ["(022) 99929-0402"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.37083,
@@ -1491,10 +1221,7 @@
       "id": "118",
       "nome": "Supermercado Santa Rita",
       "endereco": "Rua Ageu Adão Sabino de Souza, 249, Fortaleza Alta - Blumenau-SC",
-      "telefone": [
-        "(047) 3339-4097",
-        "(047) 99220-1271"
-      ],
+      "telefone": ["(047) 3339-4097", "(047) 99220-1271"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -26.854221,
@@ -1504,9 +1231,7 @@
       "id": "119",
       "nome": "Confraria do Fogo",
       "endereco": "Rua Agenor Nogueira, 1230, Vila São Lúcio - Botucatu-SP",
-      "telefone": [
-        "(014) 3881-7697"
-      ],
+      "telefone": ["(014) 3881-7697"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.8845895,
@@ -1516,9 +1241,7 @@
       "id": "120",
       "nome": "Aliança Gourmet Alimentos",
       "endereco": "Rua Maximiano Domingues da Silva, 219, Quintais do Imperador - Sorocaba-SP ",
-      "telefone": [
-        "(015) 3202-7068"
-      ],
+      "telefone": ["(015) 3202-7068"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.50167,
@@ -1528,9 +1251,7 @@
       "id": "121",
       "nome": "Industrial Grill e Chopp",
       "endereco": "Av. Francisco Andrade Ribeiro, 230, Familia Andrade - Santa Rita do Sapucaí-MG",
-      "telefone": [
-        "(035) 99988-1948"
-      ],
+      "telefone": ["(035) 99988-1948"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.2550916,
@@ -1540,9 +1261,7 @@
       "id": "122",
       "nome": "Empório Santa Helena Carnes Nobres ",
       "endereco": "Av. Vereador Adão Rodrigues de Oliveira, 100, Bairro Ideal - Novo Hamburgo-RS. ",
-      "telefone": [
-        "(051) 99515-1500"
-      ],
+      "telefone": ["(051) 99515-1500"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": 55.95391,
@@ -1552,9 +1271,7 @@
       "id": "123",
       "nome": "Clube do Boi",
       "endereco": "Av. Angelo Gennaro Gallo, 400, Nova Aliança - Ribeirão Preto-SP",
-      "telefone": [
-        "(016) 99613-3712"
-      ],
+      "telefone": ["(016) 99613-3712"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.1775,
@@ -1564,10 +1281,7 @@
       "id": "124",
       "nome": "Cabaña del Primo",
       "endereco": "Rua Tabelião José Basílio, 1101 - Teresina-PI",
-      "telefone": [
-        "(086) 3232-1428",
-        "(086) 98884-4415"
-      ],
+      "telefone": ["(086) 3232-1428", "(086) 98884-4415"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -5.0663829,
@@ -1577,9 +1291,7 @@
       "id": "125",
       "nome": "Sophie’s BBQ",
       "endereco": "Rua Mooca, 35, Jardim Paulistano - Sorocaba-SP",
-      "telefone": [
-        "(011) 97485-2619"
-      ],
+      "telefone": ["(011) 97485-2619"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5105421,
@@ -1589,9 +1301,7 @@
       "id": "126",
       "nome": "Casa di Carne",
       "endereco": "Rua José Bonifácio, 543, Loja 01, Torre - Recife-PE",
-      "telefone": [
-        "(081) 9895-2225"
-      ],
+      "telefone": ["(081) 9895-2225"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -8.05389,
@@ -1601,9 +1311,7 @@
       "id": "127",
       "nome": "Bottled Dog ",
       "endereco": "Rua Iguatemi, 255, Itaim Bibi - São Paulo-SP",
-      "telefone": [
-        "(011) 3571-5808"
-      ],
+      "telefone": ["(011) 3571-5808"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5861623,
@@ -1613,9 +1321,7 @@
       "id": "128",
       "nome": "MR Wine",
       "endereco": "Rua da Paciência, 54, Rio Vermelho - Salvador-BA",
-      "telefone": [
-        "(071) 3012-2229"
-      ],
+      "telefone": ["(071) 3012-2229"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -13.0108628,
@@ -1625,9 +1331,7 @@
       "id": "129",
       "nome": "BBK Steak House",
       "endereco": "Rua Maria Bento de Lemos 390, Intercap - Taboão da Serra-SP",
-      "telefone": [
-        "(011) 4135-5674"
-      ],
+      "telefone": ["(011) 4135-5674"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6100491,
@@ -1637,9 +1341,7 @@
       "id": "130",
       "nome": "Confraria da Carne Leopoldina",
       "endereco": "Rua Jose Peres, 242 - 17 Fundos, Centro - Leopoldina-MG",
-      "telefone": [
-        "(032) 98852-3510"
-      ],
+      "telefone": ["(032) 98852-3510"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -21.53194,
@@ -1649,9 +1351,7 @@
       "id": "131",
       "nome": "Maturo Boutique de Carnes",
       "endereco": "Av. Governador Roberto Silveira, 476, Costa Azul - Rio das Ostras-RJ",
-      "telefone": [
-        "(022) 99887-8761"
-      ],
+      "telefone": ["(022) 99887-8761"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.5163938,
@@ -1661,10 +1361,7 @@
       "id": "132",
       "nome": "Ramalho Carnes",
       "endereco": "Av. Lafayete Arruda Camargo, 12/24, Parque São Quirino - Campinas-SP",
-      "telefone": [
-        "(019) 3256-4167",
-        "(019) 98189-5659"
-      ],
+      "telefone": ["(019) 3256-4167", "(019) 98189-5659"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.90556,
@@ -1674,10 +1371,7 @@
       "id": "133",
       "nome": "Casa de Carnes Boa Vista",
       "endereco": "Rua General Osório, 315, Boa Vista,  Limeira-SP",
-      "telefone": [
-        "(019) 3451-8898",
-        "(19) 98819-3506"
-      ],
+      "telefone": ["(019) 3451-8898", "(19) 98819-3506"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.55889,
@@ -1687,9 +1381,7 @@
       "id": "134",
       "nome": "Paulinelli Carnes",
       "endereco": "Rua Itajubá, 1089, Sagrada Família - Belo Horizonte-MG",
-      "telefone": [
-        "(031) 3461-3199"
-      ],
+      "telefone": ["(031) 3461-3199"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -19.9050074,
@@ -1699,9 +1391,7 @@
       "id": "135",
       "nome": "Meet The Meat",
       "endereco": "Rua Clélia, 1231, Vila Romana - São Paulo-SP",
-      "telefone": [
-        "(011) 3205-0084"
-      ],
+      "telefone": ["(011) 3205-0084"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.524958,
@@ -1711,9 +1401,7 @@
       "id": "136",
       "nome": "Clube da Picanha Plaza Sul",
       "endereco": "Praça Leonor Kaupa, 100, Piso 1, Saúde - São Paulo-SP",
-      "telefone": [
-        "(011) 98987-1508"
-      ],
+      "telefone": ["(011) 98987-1508"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.6,
@@ -1723,9 +1411,7 @@
       "id": "137",
       "nome": "A Carninha - Burger Delivery",
       "endereco": "Rua João Kasdorf, sn, Xaxim - Curitiba-PR",
-      "telefone": [
-        "(041) 99108-8369"
-      ],
+      "telefone": ["(041) 99108-8369"],
       "tipo": "Hamburgueria ",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -25.5183896,
@@ -1735,9 +1421,7 @@
       "id": "138",
       "nome": "Carnes da Mata",
       "endereco": "Av. Santa Rita, 526, Centro - Viçosa-MG",
-      "telefone": [
-        "(031) 97175-4629"
-      ],
+      "telefone": ["(031) 97175-4629"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -20.7580865,
@@ -1747,9 +1431,7 @@
       "id": "139",
       "nome": "Castelo Boutique de Carnes",
       "endereco": "Av. Prudente de Moraes, 210, Unicenter - Itú-SP",
-      "telefone": [
-        "(011) 93021-4008"
-      ],
+      "telefone": ["(011) 93021-4008"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22,
@@ -1759,9 +1441,7 @@
       "id": "140",
       "nome": "Duque Burger",
       "endereco": "Rua Goias, 87, Boqueirão - Santos-SP",
-      "telefone": [
-        "(013) 99152-5444"
-      ],
+      "telefone": ["(013) 99152-5444"],
       "tipo": "Hamburgueria ",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C206-512.png",
       "lat": -23.9610084,
@@ -1771,9 +1451,7 @@
       "id": "141",
       "nome": "Hortifruti Tupi",
       "endereco": "Av. Presidente Kennedy, 5242, Vila Tupi - Praia Grande-SP",
-      "telefone": [
-        "(013) 3472-2182"
-      ],
+      "telefone": ["(013) 3472-2182"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -24.00583,
@@ -1783,9 +1461,7 @@
       "id": "142",
       "nome": "Picanha Prime ",
       "endereco": "Av. Amélia Antunes Pinheiro, 940, Vila Nossa Senhora das Graças - Franca-SP",
-      "telefone": [
-        "(016) 99969-9350"
-      ],
+      "telefone": ["(016) 99969-9350"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -20.5222696,
@@ -1795,9 +1471,7 @@
       "id": "143",
       "nome": "Casa Tutui",
       "endereco": "Rua Ijui, 324 Centro - Três de Maio-RS ",
-      "telefone": [
-        "(055) 99704-6028"
-      ],
+      "telefone": ["(055) 99704-6028"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -27.77333,
@@ -1807,9 +1481,7 @@
       "id": "144",
       "nome": "Boutique de Carnes Amadori ",
       "endereco": "Rua Joinville, 190, Vila Nova - Blumenau-SC",
-      "telefone": [
-        "(047) 3222-1616"
-      ],
+      "telefone": ["(047) 3222-1616"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -26.9076979,
@@ -1819,9 +1491,7 @@
       "id": "145",
       "nome": "Underdog",
       "endereco": "Rua João Moura, 548, Pinheiros - São Paulo-SP",
-      "telefone": [
-        "(011) 2579-1090"
-      ],
+      "telefone": ["(011) 2579-1090"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -23.5604538,
@@ -1831,9 +1501,7 @@
       "id": "146",
       "nome": "Underdog",
       "endereco": "Rua João Moura, 541, Pinheiros - São Paulo-SP",
-      "telefone": [
-        "(011) 3081-1909"
-      ],
+      "telefone": ["(011) 3081-1909"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5606092,
@@ -1843,9 +1511,7 @@
       "id": "147",
       "nome": "Galpão Gourmet ",
       "endereco": "Rua Ituverava, 665, freguesia - Rio de Janeiro-RJ",
-      "telefone": [
-        "(021) 35564389"
-      ],
+      "telefone": ["(021) 35564389"],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.78955,
@@ -1855,10 +1521,7 @@
       "id": "148",
       "nome": "Café Boteco",
       "endereco": "Travessa Tenente Mário Dallari, 20, Centro - Serra Negra-SP",
-      "telefone": [
-        "(019) 3892-3481",
-        "(019) 99853-9988"
-      ],
+      "telefone": ["(019) 3892-3481", "(019) 99853-9988"],
       "tipo": "Restaurante",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -22.6108577,
