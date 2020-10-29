@@ -2243,6 +2243,119 @@
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C201-512.png",
       "lat": -23.5767235,
       "lng": -46.7276348
+    },
+    {
+      "id": "180",
+      "nome": "Rede Sítio Verde Loja 1",
+      "endereco": "Av. Onze de Agosto, 256, Jardim Zaira - Guarulhos-SP",
+      "telefone": [
+        "(011) 2408-8008"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -23.46278,
+      "lng": -46.53333
+    },
+    {
+      "id": "181",
+      "nome": "Rede Sítio Verde Loja 2",
+      "endereco": "Av. Pe. Antônio José dos Santos, 296, Brooklin - São Paulo-SP",
+      "telefone": [
+        "(011) 5049-0306"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -23.5475,
+      "lng": -46.63611
+    },
+    {
+      "id": "182",
+      "nome": "Rede Sítio Verde Loja 3",
+      "endereco": "Av. Salgado Filho, 1536, Bosque Maia - Guarulhos-SP",
+      "telefone": [
+        "(011) 2408-9160"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -23.46278,
+      "lng": -46.53333
+    },
+    {
+      "id": "183",
+      "nome": "Rede Sítio Verde Loja 4",
+      "endereco": "Av. Cassiano Ricardo, 401, Jardim Aquarius - São José dos Campos-SP",
+      "telefone": [
+        "(012) 3797-2010"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -23.17944,
+      "lng": -45.88694
+    },
+    {
+      "id": "184",
+      "nome": "Rede Sítio Verde Loja 6",
+      "endereco": "Av. Dr. Adhemar de Barros, 563, Jardim São Dimas - São José dos Campos-SP",
+      "telefone": [
+        "(012) 3943-2959"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -27.61528,
+      "lng": -48.6275
+    },
+    {
+      "id": "185",
+      "nome": "Rede Sítio Verde Loja 7",
+      "endereco": "Av. Andrômeda, 2811 - Bosque dos Eucaliptos - São José dos Campos-SP",
+      "telefone": [
+        "(012) 3917-2095"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -23.17944,
+      "lng": -45.88694
+    },
+    {
+      "id": "186",
+      "nome": "Clube Grill",
+      "endereco": "Av. Embaixador Abelardo Bueno, 3330, Loja 110, Barra da Tijuca - Rio de Janeiro-RJ",
+      "telefone": [
+        "(021) 3549-8514",
+        "(021) 99512-4613"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -22.99835,
+      "lng": -43.36545
+    },
+    {
+      "id": "187",
+      "nome": "Empório das Carnes",
+      "endereco": "Rua Bolívia, 40, Jardim América - Paulínia-SP",
+      "telefone": [
+        "(019) 2218-9082",
+        "(019) 99330-1491"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -22.7720645,
+      "lng": -47.1468643
+    },
+    {
+      "id": "188",
+      "nome": "Castro Burger",
+      "endereco": "Rua Joaquim Távora, 1517, Vila Mariana - São Paulo-SP",
+      "telefone": [
+        "(011) 5083-1142"
+      ],
+      "tipo": "Hamburgueria ",
+      "lat": -23.5831861,
+      "lng": -46.6350221
+    },
+    {
+      "id": "189",
+      "nome": "M. Rodrigues by Maurício Neto",
+      "endereco": "Rua Thomáz Nogueira Gaia, 1759, Jardim Iraja - Ribeirão Preto - SP",
+      "telefone": [
+        "(016) 3911-2330",
+        "(016) 98154-7640"
+      ],
+      "tipo": "Casa de Carnes",
+      "lat": -21.2128794,
+      "lng": -47.8013378
     }
   ]
 }
