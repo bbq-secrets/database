@@ -259,7 +259,7 @@
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "lat": -22.9026625,
-      "lng": -43.5495753,
+      "lng": -43.551764,
       "id": 18
     },
     {
@@ -510,7 +510,7 @@
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
       "id": 38,
       "lat": -22.9853857,
-      "lng": -43.3807798
+      "lng": -43.3829685
     },
     {
       "nome": "Chack-Ho Carnes Nobres",
@@ -1656,8 +1656,8 @@
       ],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
-      "lat": -22.5163938,
-      "lng": -41.924502
+      "lat": -22.7540496,
+      "lng": -43.4568291
     },
     {
       "id": "132",
@@ -1960,8 +1960,8 @@
       ],
       "tipo": "Casa de Carnes",
       "tipo_image": "https://cdn3.iconfinder.com/data/icons/food-set-3/91/Food_C225-512.png",
-      "lat": 45.60634,
-      "lng": 9.30797
+      "lat": -22.6406862,
+      "lng": -43.278849
     },
     {
       "id": "157",
